@@ -1,2 +1,2 @@
-# Ola Mundo - teste
- aula, curso git
+# Olá, Mundo! - teste
+ Repositório criado durante uma aula
